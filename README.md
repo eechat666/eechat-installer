@@ -1,0 +1,1 @@
+# eechat-installer
